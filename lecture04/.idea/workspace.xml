@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a53ffcb-d6a1-48e6-b64e-573cc2157609" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture01/Example1Lecture01/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture01/Example1Lecture01/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture01/Example1Lecture01/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture01/Example1Lecture01/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture01/Example1Lecture01/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture01/Example1Lecture01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture01/Example1Lecture01/src/main/java/ru/gb/spring/Example1Lecture01/CarController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture01/Example1Lecture01/src/main/java/ru/gb/spring/Example1Lecture01/Example1Lecture01Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture01/Example1Lecture01/src/main/java/ru/gb/spring/Example1Lecture01/car/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture01/Example1Lecture01/src/main/java/ru/gb/spring/Example1Lecture01/car/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture01/Example1Lecture01/src/main/java/ru/gb/spring/Example1Lecture01/motorcycle/MotorEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture01/Example1Lecture01/src/main/java/ru/gb/spring/Example1Lecture01/motorcycle/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture01/Example1Lecture01/src/main/java/ru/gb/spring/Example1Lecture01/plane/LocalPlaneEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture01/Example1Lecture01/src/main/java/ru/gb/spring/Example1Lecture01/plane/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture01/Example1Lecture01/src/main/java/ru/gb/spring/Example1Lecture01/plane/PlaneEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture01/Example1Lecture01/src/main/java/ru/gb/spring/Example1Lecture01/plane/ProPlaneEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture01/Example1Lecture01/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture01/Example1Lecture01/src/test/java/ru/gb/spring/Example1Lecture01/Example1Lecture01ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture02/RestApiLecture02/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture02/RestApiLecture02/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture02/RestApiLecture02/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture02/RestApiLecture02/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture02/RestApiLecture02/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture02/RestApiLecture02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture02/RestApiLecture02/src/main/java/ru/gb/spring/RestApiLecture02/RestApiLecture02Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture02/RestApiLecture02/src/main/java/ru/gb/spring/RestApiLecture02/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture02/RestApiLecture02/src/main/java/ru/gb/spring/RestApiLecture02/controller/TaskController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture02/RestApiLecture02/src/main/java/ru/gb/spring/RestApiLecture02/service/TaskService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture02/RestApiLecture02/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture02/RestApiLecture02/src/test/java/ru/gb/spring/RestApiLecture02/RestApiLecture02ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture03/MyWebAplication/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture03/MyWebAplication/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture03/MyWebAplication/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture03/MyWebAplication/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture03/MyWebAplication/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture03/MyWebAplication/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture03/MyWebAplication/src/main/java/ru/gb/spring/MyWebAplication/MyWebAplicationApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture03/MyWebAplication/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture03/MyWebAplication/src/test/java/ru/gb/spring/MyWebAplication/MyWebAplicationApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture03/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimplePage/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimplePage/src/main/java/ru/gb/spring/SimplePage/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimplePage/src/main/java/ru/gb/spring/SimplePage/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimplePage/src/main/java/ru/gb/spring/SimplePage/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimplePage/src/main/java/ru/gb/spring/SimplePage/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimplePage/src/main/resources/templates/userProfile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimplePage/src/main/resources/templates/users.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2cEIJPuS4JT0DGQNsdCYQHk1fl9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/EducationOnlineSchool/OtherCources/GeekBrains/JavaSpring/Projects/JavaSpringCore/lecture04"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a53ffcb-d6a1-48e6-b64e-573cc2157609" name="Changes" comment="" />
+      <created>1707670244397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707670244397</updated>
+    </task>
+    <servers />
+  </component>
+</project>
