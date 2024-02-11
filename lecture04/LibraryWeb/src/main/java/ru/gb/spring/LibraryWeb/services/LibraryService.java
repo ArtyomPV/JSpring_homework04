@@ -9,9 +9,9 @@ import java.util.List;
 
 @Service
 public class LibraryService {
-    @Autowired
-    private final Library library;
 
+    private final Library library;
+    @Autowired
     public LibraryService(Library library) {
         this.library = library;
     }
