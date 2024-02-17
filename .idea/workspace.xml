@@ -5,12 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a228f161-cc9b-4a2c-b1b6-f4e316f4a55a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homeworks/homework04/hw04SimpleCalcWebApp/src/main/resources/templates/sum2user-numbers.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/homework04/hw04SimpleRegisterWebApp/src/main/java/ru/gb/spring/hw04SimpleRegisterWebApp/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/homework04/hw04SimpleRegisterWebApp/src/main/java/ru/gb/spring/hw04SimpleRegisterWebApp/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/homework04/hw04SimpleRegisterWebApp/src/main/java/ru/gb/spring/hw04SimpleRegisterWebApp/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/homework04/hw04SimpleRegisterWebApp/src/main/resources/templates/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/homework04/hw04SimpleRegisterWebApp/src/main/resources/templates/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seminars/seminar04/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/seminar04/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seminars/seminar04/sem4example2/src/main/java/ru/gb/spring/sem4example2/controllers/GeneratorRandomNumberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/seminar04/sem4example2/src/main/java/ru/gb/spring/sem4example2/controllers/GeneratorRandomNumberController.java" afterDir="false" />
     </list>
