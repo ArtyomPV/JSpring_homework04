@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aeda28d1-9c3c-4313-a03e-5d038877c19d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Lectures/lecture05/mynotes/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lectures/lecture05/mynotes/src/main/java/com/example/mynotes/MynotesApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lectures/lecture05/mynotes/src/main/java/com/example/mynotes/controllers/NoteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lectures/lecture05/mynotes/src/main/java/com/example/mynotes/model/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lectures/lecture05/mynotes/src/main/java/com/example/mynotes/repository/NoteRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lectures/lecture05/mynotes/src/main/java/com/example/mynotes/service/NoteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lectures/lecture05/mynotes/src/main/java/com/example/mynotes/service/NoteServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lectures/lecture05/mynotes/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lectures/lecture05/mynotes/src/test/java/com/example/mynotes/MynotesApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lectures/lecture07/Lecture-07-Security/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lectures/lecture07/Lecture-07-Security/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lectures/lecture07/Lecture-07-Security/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lectures/lecture07/Lecture-07-Security/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lectures/lecture07/Lecture-07-Security/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lectures/lecture07/Lecture-07-Security/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lectures/lecture07/Lecture-07-Security/src/main/java/ru/gb/Lecture7/Security/Lecture07SecurityApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lectures/lecture07/Lecture-07-Security/src/main/java/ru/gb/Lecture7/Security/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lectures/lecture07/Lecture-07-Security/src/main/java/ru/gb/Lecture7/Security/controller/WebController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lectures/lecture07/Lecture-07-Security/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lectures/lecture07/Lecture-07-Security/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lectures/lecture07/Lecture-07-Security/src/main/resources/templates/privatePage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lectures/lecture07/Lecture-07-Security/src/main/resources/templates/publicPage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lectures/lecture07/Lecture-07-Security/src/test/java/ru/gb/Lecture7/Security/Lecture07SecurityApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaspringsecurityHW7/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaspringsecurityHW7/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaspringsecurityHW7/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaspringsecurityHW7/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaspringsecurityHW7/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaspringsecurityHW7/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaspringsecurityHW7/src/main/java/ru/prusov/javaspringsecurityHW7/JavaspringsecurityHw7Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaspringsecurityHW7/src/main/java/ru/prusov/javaspringsecurityHW7/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaspringsecurityHW7/src/main/java/ru/prusov/javaspringsecurityHW7/controller/WebController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaspringsecurityHW7/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaspringsecurityHW7/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaspringsecurityHW7/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaspringsecurityHW7/src/main/resources/templates/private-data.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaspringsecurityHW7/src/main/resources/templates/public-data.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaspringsecurityHW7/src/test/java/ru/prusov/javaspringsecurityHW7/JavaspringsecurityHw7ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar05/Sem5ex01/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar05/Sem5ex01/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar05/Sem5ex01/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar05/Sem5ex01/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar05/Sem5ex01/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar05/Sem5ex01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar05/Sem5ex01/src/main/java/ru/gb/Sem5ex01/Sem5ex01Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar05/Sem5ex01/src/main/java/ru/gb/Sem5ex01/controller/AccountController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar05/Sem5ex01/src/main/java/ru/gb/Sem5ex01/dto/TransferRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar05/Sem5ex01/src/main/java/ru/gb/Sem5ex01/exceptions/AccountNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar05/Sem5ex01/src/main/java/ru/gb/Sem5ex01/model/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar05/Sem5ex01/src/main/java/ru/gb/Sem5ex01/repository/AccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar05/Sem5ex01/src/main/java/ru/gb/Sem5ex01/service/TransferService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar05/Sem5ex01/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar05/Sem5ex01/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar05/Sem5ex01/src/main/resources/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar05/Sem5ex01/src/test/java/ru/gb/Sem5ex01/Sem5ex01ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar05/Sem5ex02/src/main/java/ru/gb/Sem5ex02/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar05/Sem5ex02/src/main/java/ru/gb/Sem5ex02/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar05/Sem5ex02/src/main/java/ru/gb/Sem5ex02/repository/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar05/Sem5ex02/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar05/Sem5ex02/src/main/resources/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar06/Seminar06ex2/src/main/java/ru/gb/Seminar06ex2/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar06/Seminar06ex2/src/main/java/ru/gb/Seminar06ex2/controller/ReaderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar06/Seminar06ex2/src/main/java/ru/gb/Seminar06ex2/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar06/Seminar06ex2/src/main/java/ru/gb/Seminar06ex2/model/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar06/Seminar06ex2/src/main/java/ru/gb/Seminar06ex2/repository/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar06/Seminar06ex2/src/main/java/ru/gb/Seminar06ex2/repository/BookRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar06/Seminar06ex2/src/main/java/ru/gb/Seminar06ex2/repository/ReaderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar07/seminar7Example1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar07/seminar7Example1/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar07/seminar7Example1/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar07/seminar7Example1/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar07/seminar7Example1/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar07/seminar7Example1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar07/seminar7Example1/src/main/java/ru/gb/seminar7Example1/Seminar7Example1Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar07/seminar7Example1/src/main/java/ru/gb/seminar7Example1/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar07/seminar7Example1/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar07/seminar7Example1/src/test/java/ru/gb/seminar7Example1/Seminar7Example1ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar07/seminar7Example2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar07/seminar7Example2/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar07/seminar7Example2/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar07/seminar7Example2/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar07/seminar7Example2/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar07/seminar7Example2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar07/seminar7Example2/src/main/java/ru/gb/seminar7Example2/Seminar7Example2Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar07/seminar7Example2/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar07/seminar7Example2/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seminars/seminar07/seminar7Example2/src/test/java/ru/gb/seminar7Example2/Seminar7Example2ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lectures/lecture05/Lectuer05mynotes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lectures/lecture05/Lectuer05mynotes/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lectures/lecture05/Lectuer05mynotes/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lectures/lecture05/Lectuer05mynotes/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lectures/lecture05/Lectuer05mynotes/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lectures/lecture05/Lectuer05mynotes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lectures/lecture05/Lectuer05mynotes/src/main/java/ru/gb/Lectuer05mynotes/Lectuer05MynotesApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lectures/lecture05/Lectuer05mynotes/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lectures/lecture05/Lectuer05mynotes/src/test/java/ru/gb/Lectuer05mynotes/Lectuer05MynotesApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lectures/lecture05/mynotes/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lectures/lecture05/mynotes/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lectures/lecture05/mynotes/src/main/java/ru/gb/mynotes/MyNotesApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lectures/lecture05/mynotes/src/test/java/ru/gb/mynotes/MyNotesApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework05/hw05SimpleWebpageDB/src/main/java/ru/gb/hw05SimpleWebpageDB/controller/TaskController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework05/hw05SimpleWebpageDB/src/main/java/ru/gb/hw05SimpleWebpageDB/controller/TaskController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework06/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework06/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../seminars/seminar05/hw05SimpleWebpageDB/src/main/java/ru/gb/hw05SimpleWebpageDB/Hw05SimpleWebpageDbApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../seminars/seminar05/hw05SimpleWebpageDB/src/main/java/ru/gb/hw05SimpleWebpageDB/Hw05SimpleWebpageDbApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../seminars/seminar05/hw05SimpleWebpageDB/src/main/java/ru/gb/hw05SimpleWebpageDB/models/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../seminars/seminar05/hw05SimpleWebpageDB/src/main/java/ru/gb/hw05SimpleWebpageDB/models/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../seminars/seminar05/hw05SimpleWebpageDB/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../seminars/seminar05/hw05SimpleWebpageDB/src/main/resources/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../seminars/seminar05/hw05SimpleWebpageDB/src/main/resources/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../seminars/seminar05/hw05SimpleWebpageDB/src/main/resources/schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../seminars/seminar05/seminar05Example02/src/main/java/ru/gb/seminar05Example02/service/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../seminars/seminar05/Sem5ex02/src/main/java/ru/gb/Sem5ex02/service/BookService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../seminars/seminar06/Seminar06ex1/src/main/java/ru/gb/Seminar06ex1/repository/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../seminars/seminar06/Seminar06ex1/src/main/java/ru/gb/Seminar06ex1/repository/ProductRepository.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2cylYQpEDAleXjQCzREv38Q9dfp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/EducationOnlineSchool/OtherCources/GeekBrains/JavaSpring/Projects/JavaSpringCore/homeworks/homework07/javaspringsecurityHW7/src/main/resources/static"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\EducationOnlineSchool\OtherCources\GeekBrains\JavaSpring\Projects\JavaSpringCore\homeworks\homework07\javaspringsecurityHW7\src\main\resources\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\EducationOnlineSchool\OtherCources\GeekBrains\JavaSpring\Projects\JavaSpringCore\homeworks\homework07\javaspringsecurityHW7\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="JavaspringsecurityHw7Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.prusov.javaspringsecurityHW7.JavaspringsecurityHw7Application" />
+      <module name="javaspringsecurityHW7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.prusov.javaspringsecurityHW7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JavaspringsecurityHw7Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aeda28d1-9c3c-4313-a03e-5d038877c19d" name="Changes" comment="" />
+      <created>1709091746281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709091746281</updated>
+    </task>
+    <servers />
+  </component>
+</project>
