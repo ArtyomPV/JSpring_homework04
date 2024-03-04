@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ru" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <link rel="stylesheet" th:href="@{css/style.css}">
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div class="container">
+
+<h1>Users</h1>
+<h2>View users</h2>
+<div >
+    <a class="link" href="register">Want to register?</a>
+</div>
+<table class="table">
+    <tr>
+        <th>User Name</th>
+        <th>User E-mail</th>
+    </tr>
+    <tr th:each="user: ${users}">
+        <td th:text=${user.name}></td>
+        <td th:text=${user.email}></td>
+    </tr>
+</table>
+</div>
+</body>
+</html>
+
+
+<!--<div th:with="expr_result = ${potentially_complex_expression}">-->
+<!--    <div th:if="${expr_result}">-->
+<!--        <h2>Hello!</h2>-->
+<!--    </div>-->
+<!--    <div th:unless="${expr_result}">-->
+<!--        <span class="xxx">Something else</span>-->
+<!--    </div>-->
+<!--</div>-->

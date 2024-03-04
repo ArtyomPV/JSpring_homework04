@@ -15,8 +15,9 @@ public class Seminar9ApiGateWayApplication {
 		@Bean
 		public RouteLocator customRouteLocator(RouteLocatorBuilder builder) {
 			return builder.routes()
-					.route("eureka_client1",r->r.path("/service1/**")
+					.route("eureka_client1",r->r.path("/sum2numbers/**")
 							.uri("http://localhost:9091/"))
-					.route("eureka_client2",r->r.path("/service2/**")
-							.uri("http://localhost:9090/")).build();}
+					.route("eureka_client2",r->r.path("/users/**")
+							.uri("http://localhost:9092/"))
+							.build();}
 }
